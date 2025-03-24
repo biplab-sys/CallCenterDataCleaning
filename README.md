@@ -25,3 +25,9 @@ This project focuses on cleaning and transforming call center data using SQL. Th
 - **CSV** (Comma-Separated Values)
 
 - **Data Cleaning Techniques**
+
+## Author
+
+Developed by **Biplab**. Feel free to reach out with any questions!
+
+
